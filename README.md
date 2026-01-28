@@ -45,4 +45,4 @@ Redeem tokens by following the instructions provided on the interface. So easy!
 Cashu is still new so don't use it for money you would worry about losing. This redeemer project was just a week~~end~~ hack and could have bugs that lose your money.
 
 ## Licence 
-This project is open source and available under the MIT License. Feel free to copy, modify, and even fork it (but don't try to claim it as your own, ok?).
+This project is open source and available under the MIT License.
